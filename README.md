@@ -5,7 +5,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:0891b2&text=Welcome%20To%20My_Github&fontSize=38&fontColor=ffffff&fontAlignY=38AlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+%F0%9F%91%BE;Building+ideas+into+reality;Software+%7C+AI+%7C+IoT;" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+git+hub;Nuttida+Kanjanalikhit;Software+%7C+AI+%7C+IoT;" alt="Typing animation" />
 
 <br/>
 
@@ -71,7 +71,7 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 </a>
 
 <a href="nuttida.kanja@gmail.com">
-<img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-My%20Gmail-181717?style=for-the-badge&logo=gmail" />
 </a>
 
 </div>
