@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:0891b2&text=HEY,%20I'M%20YOUR%20NAME&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20IoT%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:312e81,100:0891b2&text=HEY,%20I'M%20Nuttida_Kanjanalikhit&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Creative%20Developer%20%7C%20IoT%20Explorer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+space+%F0%9F%91%BE;Building+ideas+into+reality;Software+%7C+AI+%7C+IoT+%7C+Robotics;Code.+Create.+Innovate.+Repeat." alt="Typing animation" />
 
@@ -14,29 +14,6 @@
 <img src="https://img.shields.io/badge/MISSION-Build%20Cool%20Things-f472b6?style=for-the-badge&labelColor=0f172a" />
 
 </div>
-
----
-
-## 🧬 `whoami`
-
-```python
-class Developer:
-    def __init__(self):
-        self.role = "Aspiring Software Engineer"
-        self.interests = [
-            "Software Development",
-            "Artificial Intelligence",
-            "IoT & Embedded Systems",
-            "Robotics"
-        ]
-        self.motto = "Learn by building."
-
-    def create(self):
-        return "Ideas -> Code -> Reality 🚀"
-
-me = Developer()
-print(me.create())
-```
 
 ---
 
@@ -67,7 +44,7 @@ A drowsiness detection application concept focused on driver safety.
 
 `Flutter` `Python` `ML`
 
-[⚡ View Project](https://github.com/YOUR_USERNAME/sleepy)
+[⚡ View Project](https://github.com/Itmetxr/sleepy)
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +85,7 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 <div align="center">
 
 <!-- Enable the GitHub Actions workflow to generate this image -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+<img src="https://raw.githubusercontent.com/Itmetxr/itmetxr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 
 </div>
 
