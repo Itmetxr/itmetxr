@@ -1,5 +1,5 @@
 
-<!-- ✦ CREATIVE DEVELOPER PROFILE ✦ -->
+<!-- ✦ MY PROFILE ✦ -->
 
 <div align="center">
 
@@ -45,10 +45,10 @@ print(me.create())
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js&theme=dark" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=flutter,firebase,arduino,raspberrypi,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,firebase,arduino,raspberrypi,vscode&theme=dark" />
 
 </div>
 
@@ -79,7 +79,7 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 
 `ESP32` `IoT` `Sensors`
 
-[⚡ Explore Repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+[⚡ Explore Repositories](https://github.com/Itmetxr?tab=repositories)
 
 </td>
 </tr>
@@ -118,12 +118,8 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Itmetxr">
 <img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 </div>
