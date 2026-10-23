@@ -10,9 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/STATUS-Always%20Learning-22d3ee?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/MODE-Creative-8b5cf6?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/MISSION-Build%20Cool%20Things-f472b6?style=for-the-badge&labelColor=0f172a" />
-
+<img src="https://img.shields.io/badge/STUDY-KMITL&42Student-8b5cf6?style=for-the-badge&labelColor=0f172a" />
 </div>
 
 ---
@@ -31,13 +29,13 @@
 
 ---
 
-## 🚀 Projects from My Lab
+### My Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 Sleepy
+### 🚗 CARFEIENE
 **AI × Mobile × Safety**
 
 A drowsiness detection application concept focused on driver safety.
@@ -64,34 +62,7 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 
 ---
 
-## 📊 My Developer Dashboard
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F472B6&currStreakLabel=22D3EE" />
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<!-- Enable the GitHub Actions workflow to generate this image -->
-<img src="https://raw.githubusercontent.com/Itmetxr/itmetxr/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-
-</div>
-
----
-
-## 🌐 Find Me Online
+## 🌐 My Contact
 
 <div align="center">
 
@@ -99,12 +70,13 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 <img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=github" />
 </a>
 
+<a href="nuttida.kanja@gmail.com">
+<img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=gmail" />
+</a>
+
 </div>
 
 <div align="center">
-
-### 💜 *Code the future, one commit at a time.*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:312e81,100:0f172a&height=100&section=footer" width="100%" />
 
 </div>
