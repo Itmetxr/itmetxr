@@ -42,7 +42,7 @@ A drowsiness detection application concept focused on driver safety.
 
 `Flutter` `Python` `ML`
 
-[⚡ View Project]((https://github.com/Itmetxr/Sleepy-car))
+[⚡ View Project](https://github.com/Itmetxr/Sleepy-car)
 
 </td>
 <td width="50%" valign="top">
