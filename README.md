@@ -70,8 +70,7 @@ Exploring connected devices, sensors, and intelligent robotic systems.
 <img src="https://img.shields.io/badge/GitHub-My%20Code-181717?style=for-the-badge&logo=github" />
 </a>
 
-<p>"nuttida.kanja@gmail.com"</p>
-<img src="https://img.shields.io/badge/Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-nuttida.kanja@gmail.com-181717?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
