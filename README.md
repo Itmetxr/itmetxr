@@ -23,7 +23,7 @@
 <img src="https://skillicons.dev/icons?i=c,html,css,js&theme=dark" />
 
 ### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=figma,firebase,arduino,raspberrypi,solidwork,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,firebase,arduino,raspberrypi,vscode&theme=dark" />
 
 </div>
 
